@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Assignemnt13082024">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Assigmnent13082024.TC_1_NewBook"/>
+      <class name="Assigmnent13082024.TC_2_GetBookByAuthorName"/>
+      <class name="Assigmnent13082024.TC_3_GetBookByID"/>
+      <class name="Assigmnent13082024.TC_4_DeleteBook"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Assignemnt13082024 -->
